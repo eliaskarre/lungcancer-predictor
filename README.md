@@ -1,1 +1,1 @@
-# lungcancer-predictor
+# Disease Predictor for Lung cancer
